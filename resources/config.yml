@@ -1,0 +1,445 @@
+server-name: "YourNetwork"
+
+# 
+
+welcome: "&a&l>&r&7 Welcome &a{name} to {servername}"
+
+#
+
+TITLE: "§8§l» §r§0§lWELCOME §r§7§o(YourNetwork)"
+
+id.exit: -161
+
+meta.exit: 0
+
+####
+
+id: 160 
+
+meta: 15 
+
+name: ""
+
+#
+
+id1: 160 
+
+meta1: 15 
+
+name1: ""
+
+#
+
+id2: 160 
+
+meta2: 15 
+
+name2: ""
+
+#
+
+id3: 160 
+
+meta3: 15 
+
+name3: ""
+
+#
+
+id4: 160 
+
+meta4: 15 
+
+name4: ""
+
+#
+
+id5: 160 
+
+meta5: 15 
+
+name5: ""
+
+#
+
+id6: 160 
+
+meta6: 15 
+
+name6: ""
+
+#
+
+id7: 160 
+
+meta7: 15 
+
+name7: ""
+
+#
+
+id8: 160 
+
+meta8: 15 
+
+name8: ""
+
+#
+
+id9: 160 
+
+meta9: 15 
+
+name9: ""
+
+#
+
+id10: 160 
+
+meta10: 15 
+
+name10: ""
+
+#
+
+id11: 160 
+
+meta11: 15 
+
+name11: ""
+
+#
+
+id12: 160 
+
+meta12: 15 
+
+name12: ""
+
+#
+
+id13: 160 
+
+meta13: 15 
+
+name13: ""
+
+#
+
+id14: 160 
+
+meta14: 15 
+
+name14: ""
+
+#
+
+id15: 160 
+
+meta15: 15 
+
+name15: ""
+
+#
+
+id16: 160 
+
+meta16: 15 
+
+name16: ""
+
+#
+
+id17: 160 
+
+meta17: 15 
+
+name17: ""
+
+#
+
+id18: 160 
+
+meta18: 15 
+
+name18: ""
+
+#
+
+id19: 160 
+
+meta19: 15 
+
+name19: ""
+
+#
+
+id20: 160 
+
+meta20: 15 
+
+name20: ""
+
+#
+
+id21: 160 
+
+meta21: 15 
+
+name21: ""
+
+#
+
+id22: 160 
+
+meta22: 15 
+
+name22: ""
+
+#
+
+id23: 160 
+
+meta23: 15 
+
+name23: ""
+
+#
+
+id24: 160 
+
+meta24: 15 
+
+name24: ""
+
+#
+
+id25: 160 
+
+meta25: 15 
+
+name25: ""
+
+#
+
+id26: 160 
+
+meta26: 15 
+
+name26: ""
+
+#
+
+id27: 160 
+
+meta27: 15 
+
+name27: ""
+
+#
+
+id28: 160 
+
+meta28: 15 
+
+name28: ""
+
+#
+
+id29: 160 
+
+meta29: 15 
+
+name29: ""
+
+#
+
+id30: 160 
+
+meta30: 15 
+
+name30: ""
+
+#
+
+id31: 160 
+
+meta31: 15 
+
+name31: ""
+
+#
+
+id32: 160 
+
+meta32: 15 
+
+name32: ""
+
+#
+
+id33: 160 
+
+meta33: 15 
+
+name33: ""
+
+#
+
+id34: 160 
+
+meta34: 15 
+
+name34: ""
+
+#
+
+id35: 160 
+
+meta35: 15 
+
+name35: ""
+
+#
+
+id36: 160 
+
+meta36: 15 
+
+name36: ""
+
+#
+
+id37: 160 
+
+meta37: 15 
+
+name37: ""
+
+#
+
+id38: 160 
+
+meta38: 15 
+
+name38: ""
+
+#
+
+id39: 160 
+
+meta39: 15 
+
+name39: ""
+
+#
+
+id40: 160 
+
+meta40: 15 
+
+name40: ""
+
+#
+
+id41: 160 
+
+meta41: 15 
+
+name41: ""
+
+#
+
+id42: 160 
+
+meta42: 15 
+
+name42: ""
+
+#
+
+id43: 160 
+
+meta43: 15 
+
+name43: ""
+
+#
+
+id44: 160 
+
+meta44: 15 
+
+name44: ""
+
+#
+
+id45: 160 
+
+meta45: 15
+
+name45: ""
+
+#
+
+id46: 160 
+
+meta46: 15 
+
+name46: ""
+
+#
+
+id47: 160 
+
+meta47: 15 
+
+name47: ""
+
+#
+
+id48: 160 
+
+meta48: 15 
+
+name48: ""
+
+#
+
+id49: -161
+
+meta49: 0
+
+name49: "§r§c§lEXIT\n§r§8Exit Page\n\n§7Click to exit this menu"
+
+#
+
+id50: 160 
+
+meta50: 15 
+
+name50: ""
+
+#
+
+id51: 160 
+
+meta51: 15 
+
+name51: ""
+
+#
+
+id52: 160 
+
+meta52: 15 
+
+name52: ""
+
+#
+
+id53: 160 
+
+meta53: 15 
+
+name53: "" 
